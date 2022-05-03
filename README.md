@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# Dungeon Hunter
+
+A memory card matching game with the beautiful UI, animations and fan favorite Dragon ball theme created using React.js
+
+### Links
+
+- Solution URL: [Repository here](https://github.com/Shub-hamburger/dragon-match)
+- Live URL: [Live here](https://dragon-match.vercel.app/)
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
