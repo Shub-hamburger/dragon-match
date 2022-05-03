@@ -1,6 +1,6 @@
 # Dungeon Hunter
 
-A memory card matching game with the beautiful UI, animations and fan favorite Dragon ball theme created using React.js
+A memory card matching game with beautiful UI, animations and fan favorite Dragon ball theme created using React.js
 
 ### Links
 
